@@ -1,5 +1,6 @@
 <script>
-	export let name;
+import "./app.css";
+  export let name;
 </script>
 
 <main>
